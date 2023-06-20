@@ -89,3 +89,7 @@ section>p{
     background-color: rgba(0, 0, 0, 0.486);
     text-shadow: 1px 1px 0px black;
 }
+footer{
+    text-align: center; 
+    background-color: rgb(161, 111, 111);
+}
